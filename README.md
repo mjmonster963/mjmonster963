@@ -37,3 +37,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mjmonster963&theme=github-dark&border_radius=10&mode=weekly&card_width=395&card_height=180)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mjmonster963&theme=github-dark&border_radius=10&mode=weekly&card_width=395&card_height=180" alt="GitHub Streak" /></a>
+
