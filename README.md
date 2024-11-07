@@ -52,7 +52,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats-chi-beige.vercel.app?user=mjmonster963&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1200&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-chi-beige.vercel.app?user=mjmonster963&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1200&card_height=300)](https://git.io/streak-stats)
 
 
 
