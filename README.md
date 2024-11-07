@@ -44,11 +44,11 @@
 
 &nbsp;
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mjmonster963&show_icons=true&locale=en&theme=radical" alt="mjmonster963" /></p>
-&nbsp;
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mjmonster963&show_icons=true&locale=en&theme=radical" alt="mjmonster963" />
 
-[![GitHub Streak](https://github-readme-streak-stats-chi-beige.vercel.app?user=mjmonster963&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-&nbsp;
+
+[![GitHub Streak](https://github-readme-streak-stats-chi-beige.vercel.app?user=mjmonster963&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)</p>
+
 
 
 
