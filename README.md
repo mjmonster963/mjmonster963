@@ -33,9 +33,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mjmonster963&show_icons=true&locale=en&theme=radical" alt="mjmonster963" /></p>
 &nbsp;
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjmonster963&" alt="mjmonster963" /></p>
 &nbsp;
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjmonster963&show_icons=true&theme=radical)
+
 
 
 
