@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manish Jogi</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
-<div style="background-color: black; padding: 20px; border-radius:10px;">
+
 <img align="right" alt="coding" width="400"
  src="https://github.com/mjmonster963/mjmonster963/blob/main/1_gReLR6hZjwyBxHmfLN1AVw.gif">
 
@@ -32,5 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjmonster963&show_icons=true&locale=en" alt="mjmonster963" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjmonster963&theme=tokyonight" alt="mjmonster963" /></p>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjmonster963&show_icons=true&theme=radical)
 
