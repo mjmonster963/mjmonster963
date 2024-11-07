@@ -1,4 +1,4 @@
-![Banner](./banner2.jpg)
+![Banner](./banner2.JPG)
 <h1 align="center">Hi 👋, I'm Manish Jogi</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
