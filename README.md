@@ -5,7 +5,7 @@
 <div style="background-color: black; padding: 20px; border-radius:10px;">
 <img align="right" alt="coding" width="400"
  src="https://github.com/mjmonster963/mjmonster963/blob/main/1_gReLR6hZjwyBxHmfLN1AVw.gif">
-</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjmonster963&label=Profile%20views&color=0e75b6&style=flat" alt="mjmonster963" /> </p>
 
@@ -32,4 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjmonster963&show_icons=true&locale=en" alt="mjmonster963" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjmonster963&theme=tokyonight" alt="mjmonster963" /></p>
+</div>
 
