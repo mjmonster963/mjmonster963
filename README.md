@@ -1,4 +1,4 @@
-![logo](https://github.com/mjmonster963/mjmonster963/blob/main/banner.jpg)
+![Banner](./banner2.jpg)
 <h1 align="center">Hi 👋, I'm Manish Jogi</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
