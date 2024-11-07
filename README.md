@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Manish Jogi</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
+<img align="right" alt="coding" width="400 
+ src="https://github.com/mjmonster963/mjmonster963/blob/main/1_gReLR6hZjwyBxHmfLN1AVw.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjmonster963&label=Profile%20views&color=0e75b6&style=flat" alt="mjmonster963" /> </p>
 
 - 🔭 I’m currently working on **Gaming website**
